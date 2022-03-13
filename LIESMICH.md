@@ -12,8 +12,10 @@ Bild[.]de blockt seit kurzer Zeit uBlock origin user erfolgreich aus. Hier ist e
 #### (__oder__ Shift + Strg + M)
 5. Schalten sie auf die obere, linke Zahl und geben 1920 ein und drücken Enter
 6. Geben Sie in die Zahl rechts daneben 1080 ein und drücken Sie Enter
-
+7. 
 ![enter image description here](https://screenshots.rootboonz.com/13-03-20-52-QEU5UyeQ79ZQ.png)
 
 7. ???
 8. Profit
+
+![enter image description here](https://screenshots.rootboonz.com/13-03-20-58-xnLKJ2Qx89n9.jpg)
